@@ -23,9 +23,10 @@ interface PortfolioItem {
 
 const filters = [
     {id: 'all', label: 'All Work', count: 20},
-    {id: 'uiux', label: 'UI/UX Design', count: 10},
+    {id: 'videography', label: 'Videography', count: 10},
     {id: 'marketing', label: 'Digital Marketing', count: 5},
     {id: 'branding', label: 'Branding', count: 5},
+    {id: 'webdev', label: 'Web Development', count: 5},
 ];
 
 const portfolioItems: PortfolioItem[] = [
