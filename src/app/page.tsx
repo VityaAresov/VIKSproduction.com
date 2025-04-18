@@ -12,7 +12,7 @@ import CtaSection from "@/components/CTA/CtaSection";
 export default function HomePage() {
 
     return (
-        <div>
+        <div id="page-wrapper">
             <HeroSection/>
             <ServicesSection/>
             <PortfolioSection/>
