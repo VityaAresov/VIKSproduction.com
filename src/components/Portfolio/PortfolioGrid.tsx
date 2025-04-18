@@ -23,10 +23,10 @@ export interface PortfolioItem {
 // --- Фильтры ---
 const filters = [
     { id: 'all', label: 'All Work' },
-    { id: 'Videography', label: 'Videography' },
+    { id: 'videography', label: 'Videography' },
     { id: 'marketing', label: 'Digital Marketing' },
     { id: 'branding', label: 'Branding' },
-    { id: 'web development', label: 'web development' },
+    { id: 'web development', label: 'Web Development' },
 ];
 
 // --- Демонстрационные данные (остаются без изменений) ---
