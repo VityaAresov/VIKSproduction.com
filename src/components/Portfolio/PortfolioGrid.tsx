@@ -23,9 +23,10 @@ export interface PortfolioItem {
 // --- Фильтры ---
 const filters = [
     { id: 'all', label: 'All Work' },
-    { id: 'uiux', label: 'UI/UX Design' },
+    { id: 'Videography', label: 'Videography' },
     { id: 'marketing', label: 'Digital Marketing' },
     { id: 'branding', label: 'Branding' },
+    { id: 'web development', label: 'web development' },
 ];
 
 // --- Демонстрационные данные (остаются без изменений) ---
